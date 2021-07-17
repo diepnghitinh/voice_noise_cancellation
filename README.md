@@ -1,3 +1,3 @@
 # Voice noise cancellation
 
-A example project integrated noise cancellation.
+A example Android project integrated noise cancellation.
